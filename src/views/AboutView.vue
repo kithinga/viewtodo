@@ -11,5 +11,7 @@
       p{
         font-size: 13px;
         font-weight:400;
+        border: solid rgb(228, 228, 235) 0.5px;
+        padding:2rem;border-radius:5px;
       }
 </style>
