@@ -6,7 +6,18 @@
 
  .head-ki{
      padding:2rem;
-     
+     color: rgb(63, 63, 85);
  }
 
-  
+  .rto{
+      color: rgb(14, 187, 187);font-weight:500;
+      text-decoration: none;
+  }
+  .rto:hover{
+      color: rgb(41, 51, 66);
+  }
+
+  .scaffol{
+      background-color:rgb(229, 229, 238);
+      min-height:100vh;
+  }
