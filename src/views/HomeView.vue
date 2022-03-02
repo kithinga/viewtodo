@@ -1,7 +1,15 @@
 <template>
+
+
+
   <div class="home">
-    <img alt="Vue logo" src="../assets/images/clogo.png">
+    <!-- belo wline is imported from components, hello world-->
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <P>This is my home page</P>
+    <div>
+
+    </div>
+    
     
     
   </div>

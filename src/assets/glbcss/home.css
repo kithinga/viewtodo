@@ -3,3 +3,8 @@
     width:6rem;
     margin-top:1.2rem;
 }
+
+.home{
+    background-color: red;
+    min-height: 100vh;
+}
